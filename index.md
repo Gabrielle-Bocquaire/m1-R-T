@@ -11,7 +11,7 @@ Here is a description of Tigger to see if his way of life fits yours!
 
 >Tigger is a two-year-old ginger and white cat, he is really affectionnate and loves to play outside. 
 >
->## Requirements:
+>>## Requirements:
 - to have a garden
 - to be home often
 >
