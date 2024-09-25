@@ -11,7 +11,7 @@ Here is a description of Tigger to see if his way of life fits yours!
 | Male  | OK               | No                 | OK                 |
 
 >**Tigger**  is a two-year-old ginger and white cat, he is really affectionnate and loves to play outside. Tigger needs a companion to feel less alone, to keep him busy when you are not at home! Moreover, he is very kind, he loves to play which is very important to create a link between you and your future animal.  
->>## Requirements:
+># Requirements:
 - to have a garden
 - to be home often
 - to have another cat
