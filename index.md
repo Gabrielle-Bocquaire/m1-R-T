@@ -12,5 +12,16 @@ Here is a description of Tigger to see if his way of life fits yours!
 
 
 
+| Nom      | Espèce     | Âge  |
+|----------|------------|------|
+| Tigrou   | Chat       | 2 ans |
+| Bella    | Chien      | 1 an  |
+| Max      | Lapin      | 3 ans |
+
+
+
+
+
+
 
 
