@@ -8,7 +8,7 @@ Let's present you our cats waiting for adoption!
 Here is a description of Tigger to see if his way of life fits yours!
 
 
-| Genre | Compatibility with cats | compatibility with dogs | Compatibility with children |
+| Genre | Compatibility with cats | Compatibility with dogs | Compatibility with children |
 |-------|--------------------|---------------------|----------------------|
 | Male  | OK               | No                 | OK                 |
 
