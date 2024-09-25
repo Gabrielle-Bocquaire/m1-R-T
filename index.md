@@ -19,7 +19,7 @@ Here is a description of Tigger to see if his way of life fits yours!
 He lives with another cat, his sister who is also available for adoption, see her profile on this link.    
 See below for further pictures of Tigger!
 
-<img src="./20231224_201340.jpg" alt="Tigrou" width="300" height="300">
+<img src="./20231224_201340.jpg" alt="Tigrou" width="250" height="300">
 
 
 
