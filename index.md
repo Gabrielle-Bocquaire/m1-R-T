@@ -15,7 +15,7 @@ Here is a description of Tigger to see if his way of life fits yours!
 > - to have a garden
 > - to be home often
 > - to have another cat
-
+*ruu* 
 He lives with another cat, his sister who is also available for adoption, see her profile on this link.    
 * * * 
 ~~~
@@ -26,7 +26,7 @@ See below for further pictures of Tigger!
   <img src="20240413_163530.jpg" width="200" />
    <img src="20240615_214826.jpg" width="200" />
 </p>
- _All is waiting for is you!_ 
+  All is waiting for is you !
 
 
 
