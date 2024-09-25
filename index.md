@@ -9,7 +9,7 @@ Here is a description of Tigger to see if his way of life fits yours!
 |-------|--------------------|---------------------|----------------------|
 | Male  | OK               | No                 | OK                 |
 
->Tigger() is a two-year-old ginger and white cat, he is really affectionnate and loves to play outside. 
+>Tigger is a two-year-old ginger and white cat, he is really affectionnate and loves to play outside. 
 >
 >
 >## Requirements:
