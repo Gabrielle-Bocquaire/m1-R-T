@@ -9,9 +9,9 @@ Here is a description of Tigger to see if his way of life fits yours!
 |-------|--------------------|---------------------|----------------------|
 | Male  | OK               | No                 | OK                 |
 
->Tigger is a two-year-old ginger and white cat, he is really affectionnate and loves to play outside.
+>Tigger is a two-year-old ginger and white cat, he is really affectionnate and loves to play outside. 
 >
->
+>> requirements are to have a garden and it will be nice for Tigger to live with a cat friend as well. 
 >He lives with another cat, his sister who is also available for adoption, see her profile on this link. 
 
 
