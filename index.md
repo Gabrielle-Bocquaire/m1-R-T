@@ -1,5 +1,5 @@
 # Adoption Agency #
-###### Cats ##
+## Cats ##
 Let's present you our cats waiting for adoption!
 
 - # `Tigger`
