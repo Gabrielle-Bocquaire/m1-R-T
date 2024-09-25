@@ -21,7 +21,8 @@ He lives with another cat, his sister who is also available for adoption, see he
 See below for further pictures of Tigger!
 <p align="center">
   <img src="20231224_201340.jpg" width="200" />
-  <img src="20240413_163530" width="200" />
+  <img src="20240413_163530.jpg" width="200" />
+   <img src="20240615_214826.jpg" width="200" />
 </p>
 
 <img src="./20231224_201340.jpg" alt="Tigrou" width="250" height="300">
