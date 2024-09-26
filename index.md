@@ -28,6 +28,8 @@ See below for further pictures of Tigger!
 </p>
 
 ### All he is waiting for is you!
+<p style="text-align: center;">Ton texte ici</p>
+
 
   
 
