@@ -9,7 +9,7 @@ Here is a description of Silvester to see if her way of life fits yours!
 |-------|--------------------|---------------------|----------------------|
 | Female  | No               | No                 | OK                 |
 
->>**Important**: 
+>>**`Important`**: 
  Note that Silvester lives with a male cat, Tigger but she is not fond of sharing her territory with other cats. So, it will be better not to have another companion at home!
 >>
 >**Sylvester** is a two-year-old female, she has a splendid shade of colours as you can see! She loves to play with people but most of all she needs a garden because she goes outside a lot. She can be very sweet when she wants, but be careful when she is not in the mood, just give her space. She is not aggressive but she will let you know when she wants to be left alone!
