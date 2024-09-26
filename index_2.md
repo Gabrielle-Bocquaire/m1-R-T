@@ -23,10 +23,6 @@ Here is a description of Silvester to see if her way of life fits yours!
 ~~~
 See below for further pictures of Sylvester! 
 ~~~
-
-<img src="./grosminet_2.jpg" alt="Silvester" width="250" height="300">  
-<img src="./gros_minet3.jpg" alt="Silvester" width="250" height="300"> 
-<img src="./gros_minet4.jpg" alt="Silvester" width="250" height="300"> 
 <p align="center">
   <img src="grosminet_2.jpg" width="200" />
   <img src="gros_minet3.jpg" width="200" />
