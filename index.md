@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Adoption Agency</p> 
+# Adoption Agency 
 ## Cats' section  
 Let's present you our cats waiting for adoption!
 - ### `Tigger` 
