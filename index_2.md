@@ -23,4 +23,4 @@ Here is a description of Silvester to see if her way of life fits yours!
 ~~~
 See below for further pictures of Sylvester! 
 ~~~
-![
+![Sylvester2](grosminet_2.jpg)
