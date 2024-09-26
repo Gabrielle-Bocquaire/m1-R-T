@@ -26,8 +26,10 @@ See below for further pictures of Tigger!
   <img src="20240413_163530.jpg" width="200" />
    <img src="20240615_214826.jpg" width="200" />
 </p>
- __All he is waiting for is you!__
- 
+>
+>>All he is waiting for is you!
+
+  
 
 
 
