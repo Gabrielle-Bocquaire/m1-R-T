@@ -27,8 +27,8 @@ See below for further pictures of Tigger!
    <img src="20240615_214826.jpg" width="200" />
 </p>
 
-### All he is waiting for is you!
- <p style="text-align: center;">Ton texte ici</p>
+### All he is waiting for is `you`!
+
 
 
 
