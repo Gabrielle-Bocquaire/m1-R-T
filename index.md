@@ -30,7 +30,7 @@ See below for further pictures of Tigger!
 For now, Tigger is in a foster home, if you are interrested for adoption, here are the foster home's [contacts!](tel:+33782718236) 
 ### All he is waiting for is `you`!
 
-[Texte du lien](tel:+33123456789)
+
 
 
 
