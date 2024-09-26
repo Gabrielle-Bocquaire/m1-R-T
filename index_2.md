@@ -1,3 +1,3 @@
-Cats' section
+## Cats' section
 
 gros minet
