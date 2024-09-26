@@ -27,7 +27,7 @@ See below for further pictures of Tigger!
    <img src="20240615_214826.jpg" width="200" />
 </p>
 
-For now, Tigger is in a foster home, if you are interrested for adoption, here are the foster home's [contacts!](phone_number_index.md)
+For now, Tigger is in a foster home, if you are interrested for adoption, here are the foster home's [contacts!](./phone_number_index.md)
 
 
 
