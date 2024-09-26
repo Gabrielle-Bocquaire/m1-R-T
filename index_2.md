@@ -18,3 +18,9 @@ Here is a description of Silvester to see if her way of life fits yours!
 > - to have a garden
 > - not to have another animal
 > - may not have children
+
+* * *  
+~~~
+See below for further pictures of Sylvester! 
+~~~
+![
