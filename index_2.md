@@ -1,3 +1,3 @@
 ## Cats' section
-
-gros minet
+Let's present you our cats waiting for adoption!
+- ### `Sylvester` 
