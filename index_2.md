@@ -29,4 +29,4 @@ See below for further pictures of Sylvester!
    <img src="gros_minet4.jpg" width="200" />
 </p>
 
-For now, Sylvester is in a foster home, if you are interrested for adoption, here are the foster home's [contacts!](./phone number) 
+For now, Sylvester is in a foster home, if you are interrested for adoption, here are the foster home's [contacts!](./phone_ number) 
