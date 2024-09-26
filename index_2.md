@@ -11,3 +11,4 @@ Here is a description of Silvester to see if her way of life fits yours!
 
 >>**Important**: 
  Note that Silvester lives with a male cat, Tigger but she is not fond of sharing her territory with other cats. So, it will be better not to have another companion at home!
+>**Sylvester** is a two-year-old female, she has a splendid shade of colours as you can see! 
