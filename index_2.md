@@ -27,3 +27,5 @@ See below for further pictures of Sylvester!
 <img src="./grosminet_2.jpg" alt="Silvester" width="250" height="300">  
 ![Sylvester2](gros_minet3.jpg)
 <img src="./gros_minet3.jpg" alt="Silvester" width="250" height="300"> 
+![Sylvester2](gros_minet4.jpg)
+<img src="./gros_minet4.jpg" alt="Silvester" width="250" height="300"> 
