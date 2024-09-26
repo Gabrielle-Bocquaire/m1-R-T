@@ -7,4 +7,6 @@ Here is a description of Tigger to see if his way of life fits yours!
 
 | Genre | Compatibility with cats | Compatibility with dogs | Compatibility with children |
 |-------|--------------------|---------------------|----------------------|
-| Male  | No               | No                 | OK                 |
+| Female  | No               | No                 | OK                 |
+
+>> Note that Silvester lives with a male cat, Tigger but she is not fond of sharing her territory with other cats.
