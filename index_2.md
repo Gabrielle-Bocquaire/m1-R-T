@@ -9,4 +9,5 @@ Here is a description of Tigger to see if his way of life fits yours!
 |-------|--------------------|---------------------|----------------------|
 | Female  | No               | No                 | OK                 |
 
->> Note that Silvester lives with a male cat, Tigger but she is not fond of sharing her territory with other cats.
+>>**important**: 
+>>  Note that Silvester lives with a male cat, Tigger but she is not fond of sharing her territory with other cats. So, it will be better not to have another companion at home!
