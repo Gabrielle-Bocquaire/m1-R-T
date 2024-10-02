@@ -18,7 +18,7 @@ Here is a description of Silvester to see if her way of life fits yours!
 >She can be very sweet when she wants, but be careful when she is not in the mood, just give her space. She is not aggressive but she will let you know when she wants to be left alone! Sylvester has never been near children, therefore we can't predict her behavior around them.
 >>
 >> **Sylvester** is sterilized, she is chipped, and up to date in her vaccins.
-
+>
 
 >## Requirements:
 > - to have a garden
