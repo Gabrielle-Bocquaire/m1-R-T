@@ -31,7 +31,7 @@ See below for further pictures of Chupas and Chups!
 ![chupachups2](Chupa_chups2.jpg)
 
 <p align="center">
-  <img src="grosminet_2.jpg" width="200" />
+  <img src="Chupas_chups2.jpg" width="200" />
   <img src="gros_minet3.jpg" width="200" />
    <img src="gros_minet4.jpg" width="200" />
 </p>
