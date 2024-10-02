@@ -28,6 +28,7 @@ Here is a description of Chupa and Chups to see if their ways of life fit yours!
 See below for further pictures of Chupas and Chups! 
 ~~~
 
+![chupachups2](Chupa_chups2.jpg)
 
 <p align="center">
   <img src="grosminet_2.jpg" width="200" />
