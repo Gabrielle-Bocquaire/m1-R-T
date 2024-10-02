@@ -20,5 +20,5 @@ Here is a description of Chupa and Chups to see if their ways of life fit yours!
 >## Requirements:
 > - to have a garden
 > - to adopt both of them
->
->
+
+>> Chupas and Chups are sterilized, up to date in their vaccins, znd they are chipped.
