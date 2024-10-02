@@ -35,6 +35,7 @@ See below for further pictures of Chupas and Chups!
    <img src="chupa1.jpg" width="200" />
 </p>
 
+
 <p align="center">
   <img src="chups2.jpg" width="200" />
   <img src="chups.jpg" width="200" />
