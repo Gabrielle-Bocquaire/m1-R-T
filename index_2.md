@@ -15,8 +15,8 @@ Here is a description of Silvester to see if her way of life fits yours!
 >>
 >**Sylvester** is a two-year-old female, she has a splendid shade of colours as you can see! She loves to play with people but most of all she needs a garden because she goes outside a lot. She likes to hunt, so do not be afraid to find a present at home.
 >
-She can be very sweet when she wants, but be careful when she is not in the mood, just give her space. She is not aggressive but she will let you know when she wants to be left alone! Sylvester has never been near children, therefore we can't predict her behavior around them.
->
+>She can be very sweet when she wants, but be careful when she is not in the mood, just give her space. She is not aggressive but she will let you know when she wants to be left alone! Sylvester has never been near children, therefore we can't predict her behavior around them.
+>>
 >> **Sylvester** is sterilized, she is chipped, and up to date in her vaccins.
 
 
