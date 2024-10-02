@@ -24,7 +24,7 @@ Here is a description of Silvester to see if her way of life fits yours!
 > - to have a garden
 > - not to have another animal
 > - may not have children
->
+
 Here is the [link](index_3.md) to see the profil of our last cats available for adoption! 
 * * *  
 ~~~
