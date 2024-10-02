@@ -30,11 +30,14 @@ See below for further pictures of Chupas and Chups!
 
 ![chupachups2](Chupa_chups2.jpg)
 ![chups](chups.jpg)
+![chups2](chups2.jpg)
+![chupa1](chupa1.jpg)
+
 
 
 <p align="center">
   <img src="Chupa_chups2.jpg" width="200" />
   <img src="chups.jpg" width="200" />
-   <img src="gros_minet4.jpg" width="200" />
+   <img src="chupa1.jpg" width="200" />
 </p>
 
