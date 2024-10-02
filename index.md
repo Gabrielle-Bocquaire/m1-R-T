@@ -1,4 +1,6 @@
-# Adoption Agency 
+<p style="text-align: center;">AdoptionAgency</p>
+
+# Adoption Agency
 ## Cats' section  
 Let's present you our cats waiting for adoption!
 - ### `Tigger` 
