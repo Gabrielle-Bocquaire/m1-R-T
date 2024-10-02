@@ -1,6 +1,7 @@
-<div class="center-text">
-    Adoption Agency.
+<div style="background-color: lightblue; padding: 10px;">
+    Ceci est un texte avec une couleur de fond.
 </div>
+
 
 
 # Adoption Agency
