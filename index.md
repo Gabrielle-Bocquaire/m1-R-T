@@ -1,9 +1,3 @@
-<div style="background-color: lightblue; padding: 10px;">
-    Ceci est un texte avec une couleur de fond.
-</div>
-
-
-
 # Adoption Agency
 ## Cats' section  
 Let's present you our cats waiting for adoption!
