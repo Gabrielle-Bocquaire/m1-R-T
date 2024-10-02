@@ -24,8 +24,8 @@ She can be very sweet when she wants, but be careful when she is not in the mood
 > - to have a garden
 > - not to have another animal
 > - may not have children
-
->Here is the [link](index_3.md) to see the profil of our last cats available for adoption! 
+>
+Here is the [link](index_3.md) to see the profil of our last cats available for adoption! 
 * * *  
 ~~~
 See below for further pictures of Sylvester! 
