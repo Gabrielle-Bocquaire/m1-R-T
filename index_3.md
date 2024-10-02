@@ -47,5 +47,5 @@ See below for further pictures of Chupas and Chups!
   <img src="chupachups2.jpg" width="200" height="300" />
    <img src="chupa2.jpg" width="200"/>
 </p>
-For now, Chupa and Chups are in a foster home, if you are interrested in adoption, here are thire foster home's [contacts!](phone_number_ccindex.md) 
+For now, Chupa and Chups are in a foster home, if you are interrested in adoption, here are thire foster home's [contacts!](phone_number_cc_index.md) 
 
