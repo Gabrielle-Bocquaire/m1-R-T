@@ -17,6 +17,8 @@ Moreover, he is very kind, he loves to play at home but also in the garden. You 
 >
 Tigger loves to sleep on people's laps and he will keep you company while you're sleeping. He talks a lot for a lots of reasons so don't be afraid if you hear him quite often. 
 >
+>> **Tigger** is sterilized, he is chipped, and up to date in his vaccins!
+
 >## Requirements:
 > - to have a garden
 > - to be home often
@@ -24,7 +26,7 @@ Tigger loves to sleep on people's laps and he will keep you company while you're
 
 He lives with another cat, his sister who is also available for adoption, see her profile on this [link!](index_2.md)
 
->> **Tigger** is sterilized, he is chipped, and up to date in his vaccins!
+>>
 
 * * *  
 ~~~
