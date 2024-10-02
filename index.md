@@ -31,7 +31,7 @@ He lives with another cat, his sister who is also available for adoption, see he
 
 * * *  
 ~~~
-~See below for further pictures of Tigger!~
+See below for further pictures of Tigger!
 ~~~
 <p align="center">
   <img src="20231224_201340.jpg" width="200" />
