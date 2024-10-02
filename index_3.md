@@ -23,5 +23,15 @@ Here is a description of Chupa and Chups to see if their ways of life fit yours!
 
 >> Chupas and Chups are sterilized, they are chipped, and up to date in their vaccins.
 
+* * *  
+~~~
+See below for further pictures of Chupas and Chups! 
+~~~
 
+
+<p align="center">
+  <img src="grosminet_2.jpg" width="200" />
+  <img src="gros_minet3.jpg" width="200" />
+   <img src="gros_minet4.jpg" width="200" />
+</p>
 
