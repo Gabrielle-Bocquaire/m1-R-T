@@ -1,1 +1,10 @@
-Chupa and Chups
+## Cats' section
+Let's present you our cats waiting for adoption!
+- ### `Chupa and Chups`  
+<img src="./gros_minet1.jpg" alt="Silvester" width="250" height="300">  
+Here is a description of Chupa and Chups to see if their ways of life fit yours!
+
+ 
+| Genre | Compatibility with cats | Compatibility with dogs | Compatibility with children |
+|-------|--------------------|---------------------|----------------------|
+| Female and male  | ok               | Unknown                 | OK                |
