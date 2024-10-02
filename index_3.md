@@ -30,12 +30,12 @@ See below for further pictures of Chupas and Chups!
 
 <p align="center">
   <img src="chups.jpg" width="200" height="250" />
-  <img src="Chupa_chups2.jpg" width="200" height="280" />
+  <img src="Chupa_chups2.jpg" width="200" height="300" />
    <img src="chupa1.jpg" width="200" />
 </p>
 <p align="center">
   <img src="chups2.jpg" width="200" />
-  <img src="chupachups2.jpg" width="200" height="280" />
+  <img src="chupachups2.jpg" width="200" height="300" />
    <img src="chupa2.jpg" width="200" />
 </p>
 
