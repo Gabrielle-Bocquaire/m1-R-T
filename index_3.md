@@ -9,7 +9,8 @@ Here is a description of Chupa and Chups to see if their ways of life fit yours!
 | Female and male  | OK               | Unknown                 | OK                |
 
 
->>#### `Important`: 
+>>#### `Important`:
+>
  Chupa and Chups are brothers and sisters. They live together and must be adopted together as well!
  Chupa is a female cat, she is mostly black with white paws. And Chups is a male cat, he is black and white.
 
