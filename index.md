@@ -1,4 +1,4 @@
-<p style="text-align: center;">AdoptionAgency</p>
+ <p style="text-align: center;">AdoptionAgency</p>
 
 # Adoption Agency
 ## Cats' section  
