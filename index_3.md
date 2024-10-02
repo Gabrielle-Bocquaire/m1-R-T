@@ -1,6 +1,6 @@
 ## Cats' section
 Let's present you our cats waiting for adoption!
-- ### `Chupa and Chups`
+- ### ~~`Chupa and Chups`~~ they have been adopted already
 <img src="./chupa_chups.jpg" alt="chupaschups" width="250" height="300">  
 Here is a description of Chupa and Chups to see if their ways of life fit yours!
  
