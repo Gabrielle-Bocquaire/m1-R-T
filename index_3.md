@@ -25,12 +25,13 @@ Here is a description of Chupa and Chups to see if their ways of life fit yours!
 >**Chupa and Chups** are used to eat dry cat food, they don't usually eat wet cat food. However be careful because they love to lick the saucepans after you've just cooked. Be careful not to let anything open in the kitchen!
 >
 >They have access to a litter at home to avoid little incidents and they'd rather go to the litter when it's too cold outside. 
+>> Chupa and Chups are sterilized, they are chipped, and up to date in their vaccins.
 
 >## Requirements:
 > - to have a garden
 > - to adopt both of them
 
->> Chupa and Chups are sterilized, they are chipped, and up to date in their vaccins.
+
 
 * * *  
 ~~~
