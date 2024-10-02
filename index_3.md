@@ -30,7 +30,7 @@ Here is a description of Chupa and Chups to see if their ways of life fit yours!
 > - to have a garden
 > - to adopt both of them
 
->> Chupas and Chups are sterilized, they are chipped, and up to date in their vaccins.
+>> Chupa and Chups are sterilized, they are chipped, and up to date in their vaccins.
 
 * * *  
 ~~~
