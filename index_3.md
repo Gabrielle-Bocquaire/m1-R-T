@@ -27,6 +27,7 @@ Here is a description of Chupa and Chups to see if their ways of life fit yours!
 ~~~
 See below for further pictures of Chupas and Chups! 
 ~~~
+![chupa2](chupa2.jpg)
 
 
 <p align="center">
@@ -38,6 +39,6 @@ See below for further pictures of Chupas and Chups!
 
 <p align="center">
   <img src="chups2.jpg" width="200" />
-  <img src="chups.jpg" width="200" />
+  <img src="chupa2.jpg" width="200" />
    <img src="chupa1.jpg" width="200" />
 </p>
