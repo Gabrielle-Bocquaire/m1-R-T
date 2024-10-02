@@ -11,7 +11,7 @@ Here is a description of Chupa and Chups to see if their ways of life fit yours!
 
 >>#### `Important`:
 >
- Chupa and Chups are brothers and sisters. They live together and must be adopted together as well!
+ **Chupa and Chups** are brothers and sisters. They live together and must be adopted together as well!
  Chupa is a female cat, she is mostly black with white paws. And Chups is a male cat, he is black and white.
 
 >**Chupa** is a four-year-old female, she is very beautiful as you can see! Chupa is close to humans, she loves to sit on people's laps for hours. She also likes going outside, a lot! She sometimes does not go home for days but she always comes back, don't worry! Chupa is a great huntress so don't be surprised to find a present in your home after a night out.
@@ -25,7 +25,7 @@ Here is a description of Chupa and Chups to see if their ways of life fit yours!
 >**Chupa and Chups** are used to eat dry cat food, they don't usually eat wet cat food. However be careful because they love to lick the saucepans after you've just cooked. Be careful not to let anything open in the kitchen!
 >
 >They have access to a litter at home to avoid little incidents and they'd rather go to the litter when it's too cold outside. 
->> Chupa and Chups are sterilized, they are chipped, and up to date in their vaccins.
+>> **Chupa and Chups** are sterilized, they are chipped, and up to date in their vaccins.
 
 >## Requirements:
 > - to have a garden
