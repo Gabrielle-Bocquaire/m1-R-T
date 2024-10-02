@@ -1,1 +1,6 @@
 style
+.fond-bleu {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px; /* Optionnel : arrondit les coins */
+}
