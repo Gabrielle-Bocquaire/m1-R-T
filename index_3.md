@@ -1,4 +1,5 @@
-## Cats' section
+# Adoption Agency
+## Cats' section  
 Let's present you our cats waiting for adoption!
 - ### ~~`Chupa and Chups`~~ they have been adopted already
 <img src="./chupa_chups.jpg" alt="chupaschups" width="250" height="300">  
